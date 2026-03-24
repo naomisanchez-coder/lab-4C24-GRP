@@ -1,5 +1,1 @@
-public class StudentController {
-    public static void main(String[] args) {
-        System.out.println("Controller ready");
-    }
-}
+System.out.println("Updated by responsable");
